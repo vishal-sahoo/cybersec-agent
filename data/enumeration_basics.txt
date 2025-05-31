@@ -1,0 +1,4 @@
+Website enumeration is the process of gathering information about a target website.
+This includes finding subdomains, directories, technologies used, and open ports.
+Common tools include nmap, dirb, and sublist3r.
+Always ensure you have permission before enumerating a website.
